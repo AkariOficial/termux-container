@@ -46,7 +46,7 @@ For any bugs, please report at Discussions.
 ### Getting start:      
 The new version hasn't been released yet, if you want to try it, please remove the old version and run:      
 ```sh
-git clone https://github.com/Moe-hacker/termux-container
+git clone https://github.com/whyakari/termux-container
 cd termux-container
 pkg install make
 make
